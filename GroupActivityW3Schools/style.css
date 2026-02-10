@@ -1,0 +1,98 @@
+
+body {
+  background-color: #fff4a3;
+  color:black !important
+}
+/* putting h1 text in the body to center and changing color */
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+/* putting paragraph  text in the body to center */
+body p {
+     text-align: center;
+    padding: 10px 0;
+}
+/* putting navigation text in the body to center */
+        body nav {
+            text-align: center;
+            padding: 10px 0;
+        }
+
+.btn-green {
+    background-color: green;
+}
+.btn-green p {
+    color: white;
+}
+
+.btn-white {
+    background-color: white;
+}
+
+.btn-white p {
+    color: black;
+}
+
+.btn-pink {
+    background-color: pink;
+}
+.btn-pink p {
+    color: black;
+}
+
+        /* CSS for CSS border-radius */
+nav button {
+    border-radius: 25px;
+}
+
+.learn-js p {
+color: white;
+background-color: green;
+border: 2px solid green;
+padding: 10px 20px;
+cursor: pointer;
+border-radius: 56px;
+}
+nav p{
+    display: inline-block ;
+    margin: 0 15px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+}
+link nav p:hover {
+    color: #ff5733;
+}
+
+nav button {
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 12px; 
+}
+
+/* CSS for JavaScript */
+
+section{
+    background-color: black;
+}
+
+section h1 {
+    color: white
+}
+ 
+/* use text align in center */
+
+section p {
+    color: white;
+    text-align: center;
+}
+img{
+    width: 200px;          /* make image smaller */
+    height: auto;
+    float: right;         /* move image to the right */
+    margin-left: 15px;    /* space between text and image */
+}
+
