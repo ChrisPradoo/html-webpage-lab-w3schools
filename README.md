@@ -1,7 +1,7 @@
 # html-webpage-lab-w3schools
 Group members:
 - Christian
-- Inanna
+- Ivanna
 - Francis
 
 Tasks:
