@@ -1,0 +1,138 @@
+
+
+
+/* Python & SQL css section */
+
+/* python section */
+#python-section {
+    background-color: rgb(246, 241, 232);
+    font-size: 20px;
+    
+    /* put the left and right side, side by side*/
+    display: flex;
+
+    /* gives space between columns */
+    justify-content: space-between;
+
+    /* aligns the top*/
+    align-items: flex-start;
+
+    /* space inside the box*/
+    padding: 60px;
+
+    /* adjusting the space */
+    padding: 60px;
+
+}
+
+#python-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* adjusting the buttons to look a certain way */
+#python-section button {
+    display: block;
+    margin-right: 10px;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+/* adjusting button colors */
+#learn-python {
+    background-color: green;
+    color: white;
+}
+
+#python-reference {
+    background-color: black;
+    color: white;
+}
+
+#get-certified {
+    background-color: pink;
+    color: black;
+}
+
+/* control the width of the left column */
+.left {
+    width: 30%;
+}
+
+.right img {
+    width: 420px;
+    border-radius: 8px;
+
+}
+
+/* sql section (same rules as python section) */
+#sql-section {
+    background-color: cyan;
+    font-size: 20px;
+    
+    /* put the left and right side, side by side*/
+    display: flex;
+
+    /* gives space between columns */
+    justify-content: space-between;
+
+    /* aligns the top*/
+    align-items: flex-start;
+
+    /* space inside the box*/
+    padding: 60px;
+
+    /* adjusting the space */
+    padding: 60px;
+
+}
+
+#sql-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* adjusting the buttons to look a certain way */
+#sql-section button {
+    display: block;
+    margin-right: 10px;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+/* adjusting button colors */
+#learn-sql {
+    background-color: green;
+    color: white;
+}
+
+#sql-reference {
+    background-color: black;
+    color: white;
+}
+
+#get-certified-sql {
+    background-color: pink;
+    color: black;
+}
+
+/* control the width of the left column */
+.left-sql {
+    width: 30%;
+}
+
+.right img sql {
+    width: 420px;
+    border-radius: 8px;
+
+}
